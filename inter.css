@@ -1,0 +1,39 @@
+body{
+    background-color : whitesmoke ;
+ text-shadow: black;
+ font: oblique;
+}
+
+
+p{
+    color :black;
+    text-align: left; 
+    font: icon;
+    font-size: larger;  
+}
+
+h2{
+    color:  blue ;
+    text-align: center;
+    font: oblique;
+    
+}
+
+h1{
+    color: royalblue;
+    
+   
+}
+h3
+{
+    color: blue;
+    
+    
+}
+ul{
+    color: black;
+}
+li{
+    color: black   
+}
+
